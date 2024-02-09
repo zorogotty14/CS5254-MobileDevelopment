@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="question_1">Which of these U.S. states does NOT border Canada?</string>
+    <string name="q1answer_0_button">Indiana</string>
+    <string name="q1answer_1_button">Alaska</string>
+    <string name="q1answer_2_button">Maine</string>
+    <string name="q1answer_3_button">Minnesota</string>
+    <string name="question_2">Which of these countries was NOT a part of the Soviet Union?</string>
+    <string name="q2answer_0_button">Belarus</string>
+    <string name="q2answer_1_button">Poland</string>
+    <string name="q2answer_2_button">Georgia</string>
+    <string name="q2answer_3_button">Ukraine</string>
+    <string name="question_3">Which of these cities is NOT a national capital?</string>
+    <string name="q3answer_0_button">Bangkok</string>
+    <string name="q3answer_1_button">Cairo</string>
+    <string name="q3answer_2_button">Sydney</string>
+    <string name="q3answer_3_button">Prague</string>
+    <string name="question_4">Which of these cities DOESNT border the Mediterranean Sea?</string>
+    <string name="q4answer_0_button">Alexandria</string>
+    <string name="q4answer_1_button">Barcelona</string>
+    <string name="q4answer_2_button">Monaco</string>
+    <string name="q4answer_3_button">Lisbon</string>
+    <string name="next_button">Next</string>
+    <string name="answer_0_button">Brisbane</string>
+    <string name="answer_1_button">Canberra</string>
+    <string name="answer_2_button">Melbourne</string>
+    <string name="answer_3_button">Sydney</string>
+    <string name="hint_button">HINT</string>
+    <string name="submit_button">SUBMIT</string>>
+</resources>
